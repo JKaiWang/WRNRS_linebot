@@ -38,7 +38,6 @@ export LINE_CHANNEL_ACCESS_TOKEN="你的 Channel Access Token"
 export LINE_CHANNEL_SECRET="你的 Channel Secret"
 ```
 
-或是把它放到 `.env`，但不要把 `.env` 提交到 GitHub。
 
 4. 啟動服務
 
